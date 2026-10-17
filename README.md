@@ -1,118 +1,182 @@
-<h1 align="center">Hey 👋, I'm Sahil Altaf</h1>
-<h3 align="center">Full Stack Developer | Backend Engineer | AI Enthusiast</h3>
+<!-- ========== ANIMATED HEADER ========== -->
 <p align="center">
-  Building scalable web applications, robust APIs, and intelligent digital experiences.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sahil%20Altaf&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Animated Header"/>
 </p>
+<!-- ========== TYPING ANIMATION ========== -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Sahil+Altaf+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Backend+%26+API+Engineer+%E2%9A%99%EF%B8%8F;Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing Animation"/>
+</h3>
 <p align="center">
-  📍 Srinagar, Jammu & Kashmir, India
-</p>
-<p align="center">
-  <a href="https://github.com/sahilsx">
-    <img src="https://komarev.com/ghpvc/?username=sahilsx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/sahilsx?tab=followers">
-    <img src="https://img.shields.io/github/followers/sahilsx?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sahilsx&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sahilsx?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/sahilsx?label=TOTAL%20STARS&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
 
 ⸻
+
+<!-- ========== ABOUT ME ========== -->
+<img align="right" alt="Coding Animation" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 👨‍💻 About Me
 
-I’m a Full Stack Developer passionate about building practical, scalable, and user-focused software solutions.
+Hi! I’m Sahil Altaf, a Full Stack Developer from Srinagar, Jammu & Kashmir, India.
 
-I enjoy working across the entire development lifecycle — from designing intuitive frontends to building secure backend systems, integrating APIs, managing databases, and deploying applications.
+I enjoy building scalable web applications, developing robust backend systems, integrating APIs, and exploring AI-powered solutions.
 
-* 🔭 Currently working on: Building better software and exploring AI-powered applications.
-* 🌱 Currently learning: Advanced backend architecture, AI integration, and DevOps.
-* 💻 Core expertise: JavaScript, React.js, Next.js, Node.js, Express.js, and databases.
-* 🤖 Exploring: AI-powered SaaS products and intelligent automation.
-* 🛠️ Interested in: Scalable systems, REST APIs, cloud infrastructure, and clean code.
-* 🤝 Open to: Interesting projects, freelance opportunities, and collaborations.
-* 📫 Reach me at: sahilsahil0901@gmail.com
+* 🔭 Working on: Building better software and exploring AI-powered products.
+* 🌱 Learning: Advanced backend architecture, AI integration, and DevOps.
+* 💻 Specializing in: React.js, Next.js, Node.js, and Express.js.
+* 🗄️ Databases: MySQL and MongoDB.
+* 🤖 Exploring: AI-powered SaaS and intelligent automation.
+* ☁️ Interested in: Cloud infrastructure, Docker, and scalable systems.
+* 🤝 Open to: Freelance projects, collaborations, and exciting opportunities.
+* 📫 Email: sahilsahil0901@gmail.com
 
-⸻
-
-🧰 Tech Stack
-
-Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass&perline=10" alt="Frontend Technologies"/>
-</p>
-
-Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cs,dotnet&perline=10" alt="Backend Technologies"/>
-</p>
-
-Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=10" alt="Database Technologies"/>
-</p>
-
-DevOps & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode&perline=10" alt="Developer Tools"/>
-</p>
+<br clear="right"/>
 
 ⸻
 
-🚀 What I Build
+<!-- ========== TECH STACK ========== -->
+
+🛠️ Technologies & Tools
+
+🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" alt="Frontend Technologies"/>
+</p>
+
+⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cs,dotnet" alt="Backend Technologies"/>
+</p>
+
+🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="Database Technologies"/>
+</p>
+
+☁️ DevOps & Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode" alt="DevOps and Developer Tools"/>
+</p>
+
+⸻
+
+<!-- ========== WHAT I DO ========== -->
+
+🚀 What I Do
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Full Stack Applications</h3>
-      <p>Responsive web applications with modern frontends, reliable backends, and database integration.</p>
-    </td>
-    <td width="50%">
-      <h3>⚙️ Backend Systems & APIs</h3>
-      <p>REST APIs, authentication, database design, integrations, and business logic.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI-Powered Applications</h3>
-      <p>AI integrations, intelligent assistants, conversational applications, and SaaS solutions.</p>
-    </td>
-    <td width="50%">
-      <h3>☁️ Deployment & Infrastructure</h3>
-      <p>Application deployment, cloud storage, Docker, and production troubleshooting.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+🌐 Full Stack Development
+
+Building responsive, feature-rich web applications with modern frontend frameworks and reliable backend systems.
+
+</td>
+<td width="50%" valign="top">
+
+⚙️ Backend Engineering
+
+Designing REST APIs, authentication systems, database schemas, and integrations for real-world applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🤖 AI Integration
+
+Exploring LLM APIs, intelligent assistants, AI-powered workflows, and automation solutions.
+
+</td>
+<td width="50%" valign="top">
+
+☁️ Deployment & Infrastructure
+
+Working with cloud services, application deployment, Docker, and production troubleshooting.
+
+</td>
+</tr>
 </table>
 
 ⸻
 
-📌 Featured Projects
+<!-- ========== PROJECTS ========== -->
 
-Here are some areas of development I work on:
+💡 Featured Projects
 
-* AI-Powered SaaS: Exploring intelligent applications and AI-driven workflows.
-* Full Stack Web Applications: Building end-to-end products with modern web technologies.
-* Backend & API Engineering: Developing integrations, data workflows, and application services.
+<p align="center">
+  <a href="https://github.com/sahilsx?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+</p>
 
-🔗 Explore My Repositories →
+Here are some areas I enjoy building in:
 
-Replace these examples with links to your best public projects. A few well-documented, deployed projects are more valuable than a long list of unfinished repositories.
+* 🚀 Full Stack Applications — End-to-end web applications with modern interfaces and robust backend services.
+* 🤖 AI-Powered SaaS — Exploring intelligent platforms, AI consultations, and automation.
+* ⚙️ Backend & API Systems — Database-driven applications, integrations, and business logic.
+* 📦 Business Applications — Admin dashboards, management systems, and workflow automation.
+
+📌 Add links to your three best public repositories here. Real projects with screenshots, documentation, and live demos will make this section much stronger.
 
 ⸻
+
+<!-- ========== GITHUB STATS ========== -->
 
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilsx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sahil's GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsx&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilsx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sahil's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilsx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=sahilsx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ⸻
+
+<!-- ========== CONTRIBUTION ACTIVITY ========== -->
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+⸻
+
+<!-- ========== ANIMATED CONTRIBUTION SNAKE ========== -->
+
+🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilsx/sahilsx/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilsx/sahilsx/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sahilsx/sahilsx/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+⸻
+
+<!-- ========== TROPHIES ========== -->
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilsx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</p>
+
+⸻
+
+<!-- ========== CONNECT WITH ME ========== -->
 
 🤝 Let’s Connect
 
@@ -124,9 +188,16 @@ Replace these examples with links to your best public projects. A few well-docum
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:sahilsahil0901@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 <p align="center">
-  <i>"Build things that solve real problems. Keep learning. Keep shipping."</i>
+  💬 Have an interesting idea or project? Let's build something great together!
 </p>
+<!-- ========== ANIMATED FOOTER ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Animated Footer"/>
+</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80" alt="Animated Footer Text"/>
+</h3>
