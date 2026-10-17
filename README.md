@@ -140,11 +140,6 @@ Here are some areas I enjoy building in:
   <img width="75%" src="https://streak-stats.demolab.com?user=sahilsx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
-⸻
-
-
-
-⸻
 
 <!-- ========== ANIMATED CONTRIBUTION SNAKE ========== -->
 
@@ -158,11 +153,7 @@ Here are some areas I enjoy building in:
   </picture>
 </p>
 
-⸻
 
-
-
-⸻
 
 <!-- ========== CONNECT WITH ME ========== -->
 
