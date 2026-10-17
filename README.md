@@ -1,30 +1,132 @@
-<h1 align="center">Hi 👋, I'm Sahil Altaf</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<h3 align="center">A passionate FullStack developer from Srinagar Jammu & kashmir</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsx&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsx" alt="sahilsx" /></a> </p>
-
-- 🔭 I’m currently working on **making myself better**
-
-- 🌱 I’m currently learning **things in depth*
-
-- 💬 Ask me about **, Reactjs, Javascript, Nextjs, Phython, Html, Css, Materialui, TailwindCss, Handlebars, Sql, MongoDb,  Expressjs....**
-
-- 📫 How to reach me **sahilsahil0901@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil-altaf-233a442b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil altaf" height="30" width="40" /></a>
-<a href="https://instagram.com/_sahil.altaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sahil.altaf" height="30" width="40" /></a>
+<h1 align="center">Hey 👋, I'm Sahil Altaf</h1>
+<h3 align="center">Full Stack Developer | Backend Engineer | AI Enthusiast</h3>
+<p align="center">
+  Building scalable web applications, robust APIs, and intelligent digital experiences.
+</p>
+<p align="center">
+  📍 Srinagar, Jammu & Kashmir, India
+</p>
+<p align="center">
+  <a href="https://github.com/sahilsx">
+    <img src="https://komarev.com/ghpvc/?username=sahilsx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/sahilsx?tab=followers">
+    <img src="https://img.shields.io/github/followers/sahilsx?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+⸻
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsx&show_icons=true&locale=en&layout=compact" alt="sahilsx" /></p>
+👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsx&show_icons=true&locale=en" alt="sahilsx" /></p>
+I’m a Full Stack Developer passionate about building practical, scalable, and user-focused software solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsx&" alt="sahilsx" /></p>
+I enjoy working across the entire development lifecycle — from designing intuitive frontends to building secure backend systems, integrating APIs, managing databases, and deploying applications.
+
+* 🔭 Currently working on: Building better software and exploring AI-powered applications.
+* 🌱 Currently learning: Advanced backend architecture, AI integration, and DevOps.
+* 💻 Core expertise: JavaScript, React.js, Next.js, Node.js, Express.js, and databases.
+* 🤖 Exploring: AI-powered SaaS products and intelligent automation.
+* 🛠️ Interested in: Scalable systems, REST APIs, cloud infrastructure, and clean code.
+* 🤝 Open to: Interesting projects, freelance opportunities, and collaborations.
+* 📫 Reach me at: sahilsahil0901@gmail.com
+
+⸻
+
+🧰 Tech Stack
+
+Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass&perline=10" alt="Frontend Technologies"/>
+</p>
+
+Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cs,dotnet&perline=10" alt="Backend Technologies"/>
+</p>
+
+Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=10" alt="Database Technologies"/>
+</p>
+
+DevOps & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode&perline=10" alt="Developer Tools"/>
+</p>
+
+⸻
+
+🚀 What I Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Full Stack Applications</h3>
+      <p>Responsive web applications with modern frontends, reliable backends, and database integration.</p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Backend Systems & APIs</h3>
+      <p>REST APIs, authentication, database design, integrations, and business logic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI-Powered Applications</h3>
+      <p>AI integrations, intelligent assistants, conversational applications, and SaaS solutions.</p>
+    </td>
+    <td width="50%">
+      <h3>☁️ Deployment & Infrastructure</h3>
+      <p>Application deployment, cloud storage, Docker, and production troubleshooting.</p>
+    </td>
+  </tr>
+</table>
+
+⸻
+
+📌 Featured Projects
+
+Here are some areas of development I work on:
+
+* AI-Powered SaaS: Exploring intelligent applications and AI-driven workflows.
+* Full Stack Web Applications: Building end-to-end products with modern web technologies.
+* Backend & API Engineering: Developing integrations, data workflows, and application services.
+
+🔗 Explore My Repositories →
+
+Replace these examples with links to your best public projects. A few well-documented, deployed projects are more valuable than a long list of unfinished repositories.
+
+⸻
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilsx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sahil's GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsx&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilsx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+⸻
+
+🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sahil-altaf-233a442b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_sahil.altaf">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:sahilsahil0901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+<p align="center">
+  <i>"Build things that solve real problems. Keep learning. Keep shipping."</i>
+</p>
