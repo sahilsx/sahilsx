@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsx" alt="sahilsx" /></a> </p>
 
-- 🔭 I’m currently working on **Bloging website**
+- 🔭 I’m currently working on **making myself better**
 
-- 🌱 I’m currently learning **React Native,Pandas**
+- 🌱 I’m currently learning **things in depth*
 
-- 💬 Ask me about **Asp.netcore, Reactjs, Javascript, csharp, Nextjs, Phython, Html, Css, Materialui, TailwindCss, Handlebars, Sql, MongoDb,  Expressjs....**
+- 💬 Ask me about **, Reactjs, Javascript, Nextjs, Phython, Html, Css, Materialui, TailwindCss, Handlebars, Sql, MongoDb,  Expressjs....**
 
-- 📫 How to reach me **itxsaaho@gmail.com**
+- 📫 How to reach me **sahilsahil0901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
