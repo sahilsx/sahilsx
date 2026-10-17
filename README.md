@@ -142,13 +142,7 @@ Here are some areas I enjoy building in:
 
 ⸻
 
-<!-- ========== CONTRIBUTION ACTIVITY ========== -->
 
-📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-</p>
 
 ⸻
 
@@ -166,13 +160,7 @@ Here are some areas I enjoy building in:
 
 ⸻
 
-<!-- ========== TROPHIES ========== -->
 
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilsx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</p>
 
 ⸻
 
