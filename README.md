@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/github/stars/sahilsx?label=TOTAL%20STARS&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
 
-⸻
+
 
 <!-- ========== ABOUT ME ========== -->
 <img align="right" alt="Coding Animation" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-👨‍💻 About Me
+<h3>👨‍💻 About Me </h3>
 
 Hi! I’m Sahil Altaf, a Full Stack Developer from Srinagar, Jammu & Kashmir, India.
 
