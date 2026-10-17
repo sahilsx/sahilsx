@@ -124,7 +124,7 @@ Here are some areas I enjoy building in:
 * ⚙️ Backend & API Systems — Database-driven applications, integrations, and business logic.
 * 📦 Business Applications — Admin dashboards, management systems, and workflow automation.
 
-📌 Add links to your three best public repositories here. Real projects with screenshots, documentation, and live demos will make this section much stronger.
+
 
 ⸻
 
