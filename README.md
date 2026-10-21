@@ -184,14 +184,12 @@ Here are some areas I enjoy building in:
 
 
 
-<h2 align="center">🌐 Explore My Portfolio</h2>
+<h2 align="center">🌐 Explore more in  My Portfolio</h2>
 
 <p align="center">
 
   <a href="https://sahilaltaf.is-a.dev" target="_blank">
-
     <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-sahilaltaf.is--a.dev-0F2027?style=for-the-badge&labelColor=203A43&color=00D9FF" alt="Visit My Portfolio"/>
-
   </a>
 
 </p>
@@ -199,7 +197,6 @@ Here are some areas I enjoy building in:
 <p align="center">
 
   <a href="https://sahilaltaf.is-a.dev" target="_blank">
-
     <img src="https://img.shields.io/badge/Full_Stack_Development-Explore_My_Work-00D9FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 
   </a>
@@ -207,23 +204,16 @@ Here are some areas I enjoy building in:
 </p>
 
 <p align="center">
-
   Discover my projects, technical skills, development experience, and the solutions I'm building.
-
   <br/>
-
   <strong>Turning ideas into powerful digital experiences. 💻✨</strong>
-
 </p>
 
 <p align="center">
 
   <a href="https://sahilaltaf.is-a.dev">
-
     <strong>🔗 sahilaltaf.is-a.dev →</strong>
-
   </a>
-
 </p>
 
 
